@@ -1,14 +1,14 @@
 # Cosine Effect and Velocity Measurement
 
 ## Overview
-This repository contains the documentation, data, and analysis for an experimental physics investigation exploring the impact of the **cosine error (or cosine effect)** on velocity measurements obtained from ultrasonic motion detectors[cite: 1, 3, 4, 5]. 
+This repository contains the documentation, data, and analysis for an experimental physics investigation exploring the impact of the **cosine error (or cosine effect)** on velocity measurements obtained from ultrasonic motion detectors. 
 
-Originally intended to utilize an HB100 Doppler microwave radar and Arduino setup, the methodology was pivoted to use a **Vernier Motion Detector 2** paired with **Vernier Logger Pro 3** to examine angular dependence in a controlled laboratory setting[cite: 8, 9, 10, 11].
+Originally intended to utilize an HB100 Doppler microwave radar and Arduino setup, the methodology was pivoted to use a **Vernier Motion Detector 2** paired with **Vernier Logger Pro 3** to examine angular dependence in a controlled laboratory setting.
 
 ---
 
 ## Research Question
-> *To what extent does the angle of incidence between a moving object and the motion sensor affect the measured velocity?*[cite: 1, 3]
+> *To what extent does the angle of incidence between a moving object and the motion sensor affect the measured velocity?*
 
 ---
 

@@ -14,17 +14,17 @@ Originally intended to utilize an HB100 Doppler microwave radar and Arduino setu
 
 ## Key Experimental Details
 
-* **Independent Variable:** Angle of incidence of the ultrasound beam ($0^\circ, 5^\circ, 10^\circ, 15^\circ, 20^\circ, 25^\circ, 30^\circ$), altered in fixed increments using printed protractor paper[cite: 7, 8, 17].
-* **Dependent Variable:** Measured speed calculated via the cosine effect formula and manual distance-time processing[cite: 7, 19].
+* **Independent Variable:** Angle of incidence of the ultrasound beam ($0^\circ, 5^\circ, 10^\circ, 15^\circ, 20^\circ, 25^\circ, 30^\circ$), altered in fixed increments using printed protractor paper.
+* **Dependent Variable:** Measured speed calculated via the cosine effect formula and manual distance-time processing.
 * **Controlled Variables:** 
-  * Constant velocity of a LEGO train cart maintained via a microcontroller motor module[cite: 7, 8, 13].
-  * Dimensions and foil-wrapping of the reflecting object to maintain consistent reflectivity[cite: 7, 8, 14].
-  * Linear motion along the track toward the motor[cite: 8].
+  * Constant velocity of a LEGO train cart maintained via a microcontroller motor module.
+  * Dimensions and foil-wrapping of the reflecting object to maintain consistent reflectivity.
+  * Linear motion along the track toward the motor.
 * **Apparatus & Materials:** 
-  * Vernier Motion Detector 2 (ultrasonic sensor operating at 40 measurements/second)[cite: 8, 9, 10].
-  * Vernier Logger Pro 3 software[cite: 11].
-  * LEGO train set modified with cotton balls and an aluminum-foil-wrapped cylindrical reflector from a pen to minimize extraneous cross-sectional reflections[cite: 13, 14, 15].
-  * Large umbrella screen used to block background disturbances[cite: 16].
+  * Vernier Motion Detector 2 (ultrasonic sensor operating at 40 measurements/second).
+  * Vernier Logger Pro 3 software.
+  * LEGO train set modified with cotton balls and an aluminum-foil-wrapped cylindrical reflector from a pen to minimize extraneous cross-sectional reflections.
+  * Large umbrella screen used to block background disturbances.
 
 ---
 

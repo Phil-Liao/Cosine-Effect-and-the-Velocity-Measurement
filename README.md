@@ -30,21 +30,21 @@ Originally intended to utilize an HB100 Doppler microwave radar and Arduino setu
 
 ## Summary of Findings
 
-* **Theoretical Deviation:** The investigation observed that measured velocity decreased with a decreasing angle of incidence (increasing cosine value), which diverged from the standard theoretical cosine error model ($v_{measured} = v_{actual} \cdot \cos(\theta)$)[cite: 5, 25, 28].
-* **Statistical Analysis:** A low percentage error (~3%) was found between predicted and observed values when compared to the baseline $0^\circ$ speed[cite: 24, 25].
-* **Correlation Strength:** A moderate-to-low correlation ($R^2 \approx 0.49$) indicated considerable data scatter and numerical noise[cite: 24, 25].
-* **Error Sources:** Identified systematic and random errors include unverified terminal velocity convergence over the short track length, limitations in sensor resolution/undisclosed software smoothing algorithms, and multi-surface reflection from the apparatus[cite: 25, 26, 27, 28].
+* **Theoretical Deviation:** The investigation observed that measured velocity decreased with a decreasing angle of incidence (increasing cosine value), which diverged from the standard theoretical cosine error model ($v_{measured} = v_{actual} \cdot \cos(\theta)$).
+* **Statistical Analysis:** A low percentage error (~3%) was found between predicted and observed values when compared to the baseline $0^\circ$ speed.
+* **Correlation Strength:** A moderate-to-low correlation ($R^2 \approx 0.49$) indicated considerable data scatter and numerical noise.
+* **Error Sources:** Identified systematic and random errors include unverified terminal velocity convergence over the short track length, limitations in sensor resolution/undisclosed software smoothing algorithms, and multi-surface reflection from the apparatus.
 
 ---
 
 ## Document Structure
 The full academic report is available in this repository under [Cosine Effect and Velocity.pdf](Cosine%20Effect%20and%20Velocity.pdf), covering:
-1. **Introduction & Background Information** (Velocity kinematics and Cosine Error)[cite: 2, 3, 4, 5]
-2. **Methodology & Variables**[cite: 2, 6, 7]
-3. **Materials** (HB100 Radar, Vernier Motion Detector 2, Logger Pro, Train Set, Screen)[cite: 2, 8, 9, 11, 13, 16]
-4. **Procedure & Recorded Data**[cite: 2, 17, 18, 20]
-5. **Data Processing & Uncertainties** (IQR outlier removal, protractor/velocity uncertainties, graphing)[cite: 2, 20, 21, 22, 23, 24]
-6. **Analysis & Conclusion** (Systematic/random errors, real-world ADAS implications, and personal reflection)[cite: 2, 25, 26, 27, 28, 29]
+1. **Introduction & Background Information** (Velocity kinematics and Cosine Error)
+2. **Methodology & Variables**
+3. **Materials** (HB100 Radar, Vernier Motion Detector 2, Logger Pro, Train Set, Screen)
+4. **Procedure & Recorded Data**
+5. **Data Processing & Uncertainties** (IQR outlier removal, protractor/velocity uncertainties, graphing)
+6. **Analysis & Conclusion** (Systematic/random errors, real-world ADAS implications, and personal reflection)
 
 ---
 

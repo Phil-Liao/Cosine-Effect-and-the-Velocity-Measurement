@@ -1,8 +1,5 @@
 # Cosine Effect and Velocity Measurement
 
-[![Subject: Physics](https://img.shields.io/badge/Subject-Physics-blue.svg)]()
-[![Group 4: Experimental Sciences](https://img.shields.io/badge/IB-Group%204-orange.svg)]()
-
 ## Overview
 This repository contains the documentation, data, and analysis for an experimental physics investigation exploring the impact of the **cosine error (or cosine effect)** on velocity measurements obtained from ultrasonic motion detectors[cite: 1, 3, 4, 5]. 
 
@@ -52,5 +49,5 @@ The full academic report is available in this repository under [Cosine Effect an
 ---
 
 ## Author & Context
-* **Subject:** Physics (Group 4: Experimental Sciences)[cite: 1]
-* **Word Count:** ~3,476 words[cite: 1]
+* **Subject:** Physics (Group 4: Experimental Sciences)
+* **Word Count:** ~3,476 words
